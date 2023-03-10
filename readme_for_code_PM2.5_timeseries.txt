@@ -28,7 +28,7 @@
 # - Environment required to compile and run: No specific environment required but uses Python packages: Numpy and Matplotlib
 #  ----------------------------------------------------------------------------------------------------
 #
-#  License: [insert here. Default license: Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/)]*
+#  License: Apache 2.0
 #
 # ----------------------------------------------------------------------------------------------------
 # How to cite:
